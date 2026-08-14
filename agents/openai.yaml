@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discovery Interview Prep"
+  short_description: "Design focused customer discovery interviews"
+  default_prompt: "Use $discovery-interview-prep to turn this research goal into a focused interview plan with the right participants, questions, bias controls, and learning criteria."
